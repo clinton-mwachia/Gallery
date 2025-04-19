@@ -6,7 +6,11 @@ Supports manual navigation and automatic slideshows with adjustable speed.
 
 ## Installation
 
-- 
+- Download the App: [Gallery Viewer](https://github.com/clinton-mwachia/Gallery/releases/tag/v1.0.0)
+
+- Locate the **gallerySetup.exe** and install it.
+
+- Locate the app on the start Menu or desktop shortcut.
 
 ## 🚀 Features  
 ✅ Open a Folder – Select a folder to load all images  
@@ -19,24 +23,26 @@ Supports manual navigation and automatic slideshows with adjustable speed.
 ---
 
 ## 🖥️ How to Use  
-### 1. Open Images  
+### 1. Run the App
+
+### 2. Open Images  
 - Click "Open Folder"  
 - Select a folder with images  
 - The first image appears  
 
-### 2. Navigate Images  
+### 3. Navigate Images  
 - Left Arrow ⬅️ – Previous image  
 - Right Arrow ➡️ – Next image  
 
-### 3. Start Slideshow  
+### 4. Start Slideshow  
 - Click "Start Slideshow"  
 - Images change automatically  
 - Countdown shows time until the next image  
 
-### 4. Adjust Slideshow Speed  
+### 5. Adjust Slideshow Speed  
 - Move the speed slider (1s - 10s)  
 
-### 5. Stop Slideshow  
+### 6. Stop Slideshow  
 - Click "Stop Slideshow"  
 
 ---
