@@ -59,5 +59,3 @@ for different needs and industries.
 📧 Email: clintonmwachia9@gmail.com
 🌐 Website: coming soon!  
 📱 Phone: +254 746 646 331/+254 738 816 913  
-
----
